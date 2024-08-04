@@ -1,4 +1,4 @@
-### Real-Time-Hand-Gesture-Recognition-System
+### Real-Time-Hand-Sign-Recognition-System
 
 ___
 
