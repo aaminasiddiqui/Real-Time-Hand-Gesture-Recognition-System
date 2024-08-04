@@ -2,7 +2,7 @@
 
 
 
-### 'datacollection.py'
+### 'datacollect.py'
 This script is responsible for collecting and preparing the dataset used for training the hand sign recognition model. The main tasks include detecting hands, cropping the hand regions, and saving the cropped images under appropriate labels.
 - **Hand Detection**: Capture frames, detect hands, and get bounding box coordinates.
 - **Hand Cropping**: Crop and resize hand regions.
