@@ -1,6 +1,6 @@
-### Real-Time-Hand-Sign-Recognition-System
+## Real-Time-Hand-Sign-Recognition-System
 
-___
+
 
 ### 'datacollection.py'
 This script is responsible for collecting and preparing the dataset used for training the hand sign recognition model. The main tasks include detecting hands, cropping the hand regions, and saving the cropped images under appropriate labels.
