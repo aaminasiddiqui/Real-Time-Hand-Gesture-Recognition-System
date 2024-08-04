@@ -1,7 +1,10 @@
 ### Real-Time-Hand-Sign-Recognition-System
 
 ___
-
+#### datacollection.py
+This script is responsible for collecting and preparing the dataset used for training the hand sign recognition model. The main tasks include detecting hands, cropping the hand regions, and saving the cropped images under appropriate labels.
+#### test.py
+This script is designed to detect and classify hand signs in real-time, displaying the predicted label on the bounding box around the detected hand.
 ### Applications
 - **Sign Language Translation**: Facilitate communication for the hearing impaired by translating sign language into text or speech.
 - **Gesture Control**: Enable gesture-based control systems for devices and applications.
